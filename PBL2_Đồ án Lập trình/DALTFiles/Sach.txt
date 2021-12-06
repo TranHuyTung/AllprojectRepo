@@ -1,0 +1,7 @@
+b0, nguyen quang huy, Nguyen Quang Huy, Da Nang, 2010, true
+b1, nguyen quang huy, dfa, adf, 2017, true
+b2, tran huy tung, Tran Huy Tung, Da Nang, 2015, false
+b3, nguyen duy thuong, Nguyen Duy Thuong, Quang Nam, 2000, true
+b4, hoang huy cuong, Hoang Huy Cuong, Nghe An, 1999, false
+b5, nguyen phuong nam, Nguyen Phuong Nam, Ha Noi, 2010, false
+b6, dsaf, sdf,  df, 2019, true

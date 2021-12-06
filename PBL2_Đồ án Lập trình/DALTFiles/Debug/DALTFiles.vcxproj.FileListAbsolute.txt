@@ -1,0 +1,4 @@
+D:\Tai Lieu\dev c++\DALTFiles\Debug\DALTFiles.exe
+D:\Tai Lieu\dev c++\DALTFiles\Debug\DALTFiles.pdb
+D:\PBL2\DALTFiles\Debug\DALTFiles.exe
+D:\PBL2\DALTFiles\Debug\DALTFiles.pdb
